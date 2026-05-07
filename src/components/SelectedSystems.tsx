@@ -102,7 +102,7 @@ function ProjectModal({ project, onClose }: { project: Project; onClose: () => v
           <img
             src={project.image}
             alt={project.title}
-            className="w-full h-full object-cover opacity-40"
+            className="w-full h-full object-cover opacity-70"
           />
           <div className="absolute inset-0 bg-gradient-to-b from-transparent to-[#111418]" />
           <div className="absolute bottom-0 left-0 right-0 p-6">
@@ -116,9 +116,9 @@ function ProjectModal({ project, onClose }: { project: Project; onClose: () => v
               </div>
               <button
                 onClick={onClose}
-                className="p-2 rounded-full border border-white/10 text-[#6b7685] hover:text-[#f0f4f8] hover:border-white/20 transition-all"
+                className="p-2 rounded-full border border-white/30 bg-white/5 text-[#f0f4f8] hover:bg-white/10 hover:border-white/50 transition-all"
               >
-                <X size={16} />
+                <X size={18} />
               </button>
             </div>
           </div>
@@ -265,7 +265,7 @@ function ProjectCard({ project, index }: { project: Project; index: number }) {
           <img
             src={project.image}
             alt={project.title}
-            className="w-full h-full object-cover opacity-30 group-hover:opacity-45 group-hover:scale-105 transition-all duration-500"
+            className="w-full h-full object-cover opacity-60 group-hover:opacity-75 group-hover:scale-105 transition-all duration-500"
           />
           <div className="absolute inset-0 bg-gradient-to-b from-transparent via-transparent to-[#111418]" />
           <div className="absolute top-3 right-3">
