@@ -150,6 +150,13 @@ export default function Hero() {
               >
                 Get In Touch
               </a>
+              <a
+                href="/Sharmistha_Chakraborty_08_04_01.pdf?v=20261026"
+                download="Sharmistha_Chakraborty_Resume.pdf"
+                className="text-sm font-medium tracking-wider uppercase text-[#ff6b00] hover:text-[#ffd6ae] transition-colors duration-200 px-4 py-3 sm:py-3.5 border border-[#ff6b00]/25 rounded-sm hover:border-[#ff6b00]/45 focus:outline-none focus-visible:ring-2 focus-visible:ring-[#ff6b00]/40"
+              >
+                Download Resume
+              </a>
             </div>
 
             <div className="flex items-center gap-3 mt-12 sm:mt-16 opacity-30" aria-hidden="true">

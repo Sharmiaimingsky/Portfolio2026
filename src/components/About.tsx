@@ -73,10 +73,10 @@ export default function About() {
               I'm an enthusiastic software developer with experience in Java, Spring Boot, Angular, JPA, TypeScript, JavaScript, HTML, and CSS — with deep expertise in frameworks like React, Node.js, and Three.js.
             </p>
             <p className="text-[#a8b4c0] leading-relaxed mb-4">
-              Currently a UI Developer at <span className="text-[#39ff14] font-medium">eBay Inc.</span>, building the Genie SEO Tool for enterprise search optimization. Previously at Precisely S&D, delivering the Data Integrity Suite for Fortune 100 clients, and at Juniper Networks on Junos device management.
+              Currently a UI Developer at <span className="text-[#39ff14] font-medium">eBay Inc.</span>, building the Genie SEO Tool to improve search visibility, seller workflows, and enterprise optimization at scale. I work on modern React interfaces, reusable components, and user-centric design decisions that make complex search and merchandising systems easier to operate.
             </p>
             <p className="text-[#6b7685] leading-relaxed">
-              I'm a quick learner who collaborates closely with clients to create efficient, scalable, and user-friendly solutions. Self-starter. Fast-paced environment enthusiast. Let's create something together.
+              Previously at Precisely S&D, I delivered features for Fortune 100 clients through the Data Integrity Suite, and at Juniper Networks I contributed to Junos device management and automation tooling. I'm a quick learner who collaborates closely with cross-functional teams to create efficient, scalable, and user-friendly solutions. Self-starter. Fast-paced environment enthusiast. Let's create something together.
             </p>
 
             <div className="flex gap-4 mt-8 flex-wrap">

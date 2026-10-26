@@ -74,7 +74,7 @@ export default function Navigation() {
             <Code2 size={16} />
           </a>
           <a
-            href="/Sharmistha_Chakraborty_08_04_01.pdf"
+            href="/Sharmistha_Chakraborty_04_09.pdf"
             download="Sharmistha_Chakraborty_Resume.pdf"
             className="p-2 text-[#6b7685] hover:text-[#39ff14] transition-colors duration-200"
             aria-label="Download Resume"

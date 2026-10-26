@@ -25,14 +25,14 @@ export const experiences: Experience[] = [
     period: 'Dec 2025 — Present',
     location: 'Bangalore, India',
     description:
-      'Developing scalable React-based UI components for the Genie SEO Tool, improving enterprise search optimization workflows at eBay scale.',
+      'Designing and shipping scalable React UI experiences for the Genie SEO Tool, helping improve enterprise search visibility, optimization workflows, and internal operational efficiency at eBay scale.',
     achievements: [
-      'Developed scalable React-based UI components for the Genie SEO Tool, improving enterprise search optimization workflow',
-      'Engineered intuitive and responsive UI/UX, enhancing user engagement and operational efficiency',
-      'Implemented and maintained CI/CD pipelines with cloud deployments, ensuring reliable and faster releases',
-      'Collaborated with cross-functional teams in an Agile environment to deliver high-impact features at scale',
+      'Built reusable React-based components for the Genie SEO Tool to support enterprise search optimization, performance monitoring, and seller-focused workflows',
+      'Created intuitive, responsive interfaces that simplify complex SEO and search operations for internal users and business stakeholders',
+      'Collaborated closely with product, design, and engineering teams in an Agile environment to ship high-impact features with a strong focus on usability and scale',
+      'Worked across cloud deployment and release workflows to improve reliability, faster delivery, and maintainability of core tools',
     ],
-    stack: ['React JS', 'CI/CD', 'Cloud Deployments', 'Agile'],
+    stack: ['React JS', 'UI Development', 'Search Optimization', 'CI/CD', 'Cloud Deployments', 'Agile'],
   },
   {
     id: 'precisely',
